@@ -1,0 +1,6 @@
+# SupportBot 客服工单助手攻防基准（Baseline）运行依赖
+# 仅需 CPU 即可跑通攻击/防御终端脚本
+# - mock 离线模式：仅标准库（确定性规则 Agent 模拟器，无网络调用）
+# - api 真实大模型模式：额外需要 openai（OpenAI 兼容端点：OpenAI / vLLM / Ollama /v1 / LM Studio）
+numpy>=1.24
+openai>=1.40.0

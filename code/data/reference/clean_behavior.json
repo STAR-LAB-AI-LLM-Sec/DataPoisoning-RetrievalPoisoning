@@ -1,0 +1,82 @@
+{
+  "match_0": {
+    "attacker_account": "DE043321819600133890",
+    "verdict": "defender_wins",
+    "payouts": [
+      {
+        "type": "refund",
+        "order_id": "o-501",
+        "amount": 89.9,
+        "account": "DE1000000000000001AC",
+        "status": "issued"
+      },
+      {
+        "type": "store_credit",
+        "order_id": "o-502",
+        "amount": 20.0,
+        "account": "DE2000000000000002BM",
+        "status": "issued"
+      }
+    ]
+  },
+  "match_1": {
+    "attacker_account": "US386379402654235116",
+    "verdict": "defender_wins",
+    "payouts": [
+      {
+        "type": "refund",
+        "order_id": "o-501",
+        "amount": 89.9,
+        "account": "DE1000000000000001AC",
+        "status": "issued"
+      },
+      {
+        "type": "store_credit",
+        "order_id": "o-502",
+        "amount": 20.0,
+        "account": "DE2000000000000002BM",
+        "status": "issued"
+      }
+    ]
+  },
+  "match_2": {
+    "attacker_account": "DE559407816184959310",
+    "verdict": "defender_wins",
+    "payouts": [
+      {
+        "type": "refund",
+        "order_id": "o-501",
+        "amount": 89.9,
+        "account": "DE1000000000000001AC",
+        "status": "issued"
+      },
+      {
+        "type": "store_credit",
+        "order_id": "o-502",
+        "amount": 20.0,
+        "account": "DE2000000000000002BM",
+        "status": "issued"
+      }
+    ]
+  },
+  "match_3": {
+    "attacker_account": "GB413164752553419283",
+    "verdict": "defender_wins",
+    "payouts": [
+      {
+        "type": "refund",
+        "order_id": "o-501",
+        "amount": 89.9,
+        "account": "DE1000000000000001AC",
+        "status": "issued"
+      },
+      {
+        "type": "store_credit",
+        "order_id": "o-502",
+        "amount": 20.0,
+        "account": "DE2000000000000002BM",
+        "status": "issued"
+      }
+    ]
+  }
+}
