@@ -1,8 +1,8 @@
 {
   "benchmark": "SupportBot",
   "stage": "all",
-  "judge_mode": "mock",
-  "agent_model": "mock",
+  "judge_mode": "api",
+  "agent_model": "deepseek-flash",
   "n_matches": 24,
   "n_baseline_tasks": 12,
   "cells": {
