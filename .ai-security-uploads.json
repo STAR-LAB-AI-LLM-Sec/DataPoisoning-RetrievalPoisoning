@@ -1,0 +1,11 @@
+{
+  "workDirId": "mu7zh5ajdrshq1",
+  "scenario": "supportbot",
+  "role": "solo_defense",
+  "version": 2,
+  "uploadedAt": "2026-09-19T06:05:36.743Z",
+  "files": [
+    "defense.py",
+    "meta.json"
+  ]
+}
