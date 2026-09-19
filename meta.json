@@ -1,0 +1,18 @@
+{
+  "workDirId": "mu7zh5ajdrshq1",
+  "branch": "def-ChangQing",
+  "uploaderBranch": true,
+  "githubAccount": "ChangQingxgg",
+  "displayName": "张志豪",
+  "scenario": "supportbot",
+  "role": "solo_defense",
+  "userId": "52237c6f-d8dd-4e1f-bbec-08280d4bdf3b",
+  "version": 2,
+  "originalZipName": "defense.py",
+  "archivedZip": false,
+  "uploadedAt": "2026-09-19T06:05:33.182Z",
+  "files": [
+    "defense.py"
+  ],
+  "skippedLargeFiles": []
+}
